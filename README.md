@@ -1,4 +1,4 @@
-#Superstore Sales Analysis with Power BI
+Superstore Sales Analysis with Power BI
 
 📌 Project Overview
 
